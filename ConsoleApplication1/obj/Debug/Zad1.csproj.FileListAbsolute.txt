@@ -1,0 +1,10 @@
+C:\Users\Katarina\Documents\Visual Studio 2015\Projects\RAUPJC-DZ3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Katarina\Documents\Visual Studio 2015\Projects\RAUPJC-DZ3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Katarina\Documents\Visual Studio 2015\Projects\RAUPJC-DZ3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Katarina\Documents\Visual Studio 2015\Projects\RAUPJC-DZ3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Katarina\Documents\Visual Studio 2015\Projects\RAUPJC-DZ3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Katarina\Documents\Visual Studio 2015\Projects\RAUPJC-DZ3\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Katarina\Documents\Visual Studio 2015\Projects\RAUPJC-DZ3\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Katarina\Documents\Visual Studio 2015\Projects\RAUPJC-DZ3\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Katarina\Documents\Visual Studio 2015\Projects\RAUPJC-DZ3\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Katarina\Documents\Visual Studio 2015\Projects\RAUPJC-DZ3\ConsoleApplication1\obj\Debug\Zad1.csprojResolveAssemblyReference.cache
